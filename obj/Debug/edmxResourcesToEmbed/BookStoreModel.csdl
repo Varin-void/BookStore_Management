@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbBookStoreModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Author">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Books" Relationship="Self.BookAuthors" FromRole="Authors" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Pages" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <Property Name="PrimePrice" Type="Int32" Nullable="false" />
+    <Property Name="PublishDate" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Sequel" Type="Boolean" Nullable="false" />
+    <Property Name="Stock" Type="Int32" Nullable="false" />
+    <Property Name="Genres_Id" Type="Int32" />
+    <Property Name="Publisher_Id" Type="Int32" />
+    <NavigationProperty Name="Genre" Relationship="Self.FK_dbo_Books_dbo_Genres_Genres_Id" FromRole="Books" ToRole="Genres" />
+    <NavigationProperty Name="Publisher" Relationship="Self.FK_dbo_Books_dbo_Publishers_Publisher_Id" FromRole="Books" ToRole="Publishers" />
+    <NavigationProperty Name="Purchases" Relationship="Self.FK_dbo_Purchases_dbo_Books_Books_Id" FromRole="Books" ToRole="Purchases" />
+    <NavigationProperty Name="Authors" Relationship="Self.BookAuthors" FromRole="Books" ToRole="Authors" />
+    <NavigationProperty Name="Discounts" Relationship="Self.DiscountBooks" FromRole="Books" ToRole="Discounts" />
+  </EntityType>
+  <EntityType Name="Discount">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Percentage" Type="Int32" Nullable="false" />
+    <Property Name="StartDate" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="EndDate" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Books" Relationship="Self.DiscountBooks" FromRole="Discounts" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Genre">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Books" Relationship="Self.FK_dbo_Books_dbo_Genres_Genres_Id" FromRole="Genres" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Publisher">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PublisherName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Books" Relationship="Self.FK_dbo_Books_dbo_Publishers_Publisher_Id" FromRole="Publishers" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Purchase">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SaleDate" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="Books_Id" Type="Int32" />
+    <NavigationProperty Name="Book" Relationship="Self.FK_dbo_Purchases_dbo_Books_Books_Id" FromRole="Purchases" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="passWord" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="role" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_dbo_Books_dbo_Genres_Genres_Id">
+    <End Role="Genres" Type="Self.Genre" Multiplicity="0..1" />
+    <End Role="Books" Type="Self.Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genres">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="Genres_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Books_dbo_Publishers_Publisher_Id">
+    <End Role="Publishers" Type="Self.Publisher" Multiplicity="0..1" />
+    <End Role="Books" Type="Self.Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Publishers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="Publisher_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Purchases_dbo_Books_Books_Id">
+    <End Role="Books" Type="Self.Book" Multiplicity="0..1" />
+    <End Role="Purchases" Type="Self.Purchase" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Books">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Purchases">
+        <PropertyRef Name="Books_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BookAuthors">
+    <End Role="Authors" Type="Self.Author" Multiplicity="*" />
+    <End Role="Books" Type="Self.Book" Multiplicity="*" />
+  </Association>
+  <Association Name="DiscountBooks">
+    <End Role="Books" Type="Self.Book" Multiplicity="*" />
+    <End Role="Discounts" Type="Self.Discount" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="DbBookStoreEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Authors" EntityType="Self.Author" />
+    <EntitySet Name="Books" EntityType="Self.Book" />
+    <EntitySet Name="Discounts" EntityType="Self.Discount" />
+    <EntitySet Name="Genres" EntityType="Self.Genre" />
+    <EntitySet Name="Publishers" EntityType="Self.Publisher" />
+    <EntitySet Name="Purchases" EntityType="Self.Purchase" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_dbo_Books_dbo_Genres_Genres_Id" Association="Self.FK_dbo_Books_dbo_Genres_Genres_Id">
+      <End Role="Genres" EntitySet="Genres" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Books_dbo_Publishers_Publisher_Id" Association="Self.FK_dbo_Books_dbo_Publishers_Publisher_Id">
+      <End Role="Publishers" EntitySet="Publishers" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Purchases_dbo_Books_Books_Id" Association="Self.FK_dbo_Purchases_dbo_Books_Books_Id">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Purchases" EntitySet="Purchases" />
+    </AssociationSet>
+    <AssociationSet Name="BookAuthors" Association="Self.BookAuthors">
+      <End Role="Authors" EntitySet="Authors" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="DiscountBooks" Association="Self.DiscountBooks">
+      <End Role="Books" EntitySet="Books" />
+      <End Role="Discounts" EntitySet="Discounts" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,199 @@
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_CloseAct.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_ClosePas.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MaximizeAct.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MaximizePas.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MinimizeAct.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MinimizePas.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\PicSource\add.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\PicSource\back.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\PicSource\BackGround.jpg
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\PicSource\edit.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\PicSource\exit.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\PicSource\user.png
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.exe.config
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.exe
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.pdb
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\Style\ButtonStyles.baml
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\Style\ColorStyles.baml
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\MainWindow.g.cs
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\App.g.cs
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_Content.g.cs
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_MarkupCompile.cache
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_MarkupCompile.lref
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\App.baml
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\MainWindow.baml
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.g.resources
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.Properties.Resources.resources
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.GenerateResource.cache
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.exe
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.pdb
+C:\Users\Rin\Desktop\Pratice Coding\ADO_Final\BookStore_Final_Project\obj\Debug\Style\TextBoxStyles.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_CloseAct.png
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_ClosePas.png
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MaximizeAct.png
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MaximizePas.png
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MinimizeAct.png
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MinimizePas.png
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.exe.config
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.exe
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.pdb
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\Style\ButtonStyles.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\Style\ColorStyles.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\Style\TextBoxStyles.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\MainWindow.g.cs
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\App.g.cs
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_Content.g.cs
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_MarkupCompile.cache
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_MarkupCompile.lref
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\App.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\MainWindow.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.g.resources
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.Properties.Resources.resources
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.GenerateResource.cache
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.exe
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.pdb
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\EntityFramework.dll
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\EntityFramework.xml
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.CopyComplete
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\AdminPanel.g.cs
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\MaterialDesignColors.dll
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Rin\Desktop\BookStore_Final_Project\obj\Debug\AdminPanel.baml
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_CloseAct.png
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_ClosePas.png
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MaximizeAct.png
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MaximizePas.png
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MinimizeAct.png
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MinimizePas.png
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.exe.config
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.exe
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.pdb
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\EntityFramework.dll
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\MaterialDesignColors.dll
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\EntityFramework.xml
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\MaterialDesignColors.pdb
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.AssemblyReference.cache
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\Style\ButtonStyles.baml
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\Style\ColorStyles.baml
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\Style\TextBoxStyles.baml
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\AdminPanel.g.cs
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\MainWindow.g.cs
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\App.g.cs
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_Content.g.cs
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_MarkupCompile.cache
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_MarkupCompile.lref
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\App.baml
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\AdminPanel.baml
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\MainWindow.baml
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.g.resources
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.Properties.Resources.resources
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.GenerateResource.cache
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.CopyComplete
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.exe
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.pdb
+C:\Users\Rin\Desktop\BookStore_Final_Project\bin\Debug\Assets\BackGround.jpg
+C:\Users\varin\Desktop\BookStore_Final_Project\bin\Debug\Assets\BackGround.jpg
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\SellerPanel.g.cs
+C:\Users\varin\Desktop\BookStore_Final_Project\obj\Debug\SellerPanel.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\Style\ButtonStyles.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\Style\ColorStyles.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\Style\TextBoxStyles.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\AdminPanel.g.cs
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\MainWindow.g.cs
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\SellerPanel.g.cs
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\App.g.cs
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_Content.g.cs
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_MarkupCompile.cache
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_MarkupCompile.lref
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.exe
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.pdb
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\Assets\BackGround.jpg
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_CloseAct.png
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_ClosePas.png
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MaximizeAct.png
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MaximizePas.png
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MinimizeAct.png
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MinimizePas.png
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.exe.config
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.exe
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.pdb
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\EntityFramework.dll
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\MaterialDesignColors.dll
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\EntityFramework.xml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\App.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\AdminPanel.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\MainWindow.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\SellerPanel.baml
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.g.resources
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.Properties.Resources.resources
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.GenerateResource.cache
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Rin\Desktop\BookStore_Final_Project_50\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.CopyComplete
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\Assets\BackGround.jpg
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_CloseAct.png
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_ClosePas.png
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MaximizeAct.png
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MaximizePas.png
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MinimizeAct.png
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\Assets\Icons\ic_MinimizePas.png
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.exe.config
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.exe
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\BookStore_Final_Project.pdb
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\EntityFramework.dll
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\MaterialDesignColors.dll
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\EntityFramework.xml
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\MaterialDesignColors.pdb
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.AssemblyReference.cache
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\Style\ButtonStyles.baml
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\Style\ColorStyles.baml
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\Style\TextBoxStyles.baml
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\AdminPanel.g.cs
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\MainWindow.g.cs
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\SellerPanel.g.cs
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\App.g.cs
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_Content.g.cs
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_MarkupCompile.cache
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project_MarkupCompile.lref
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\App.baml
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\AdminPanel.baml
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\MainWindow.baml
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\SellerPanel.baml
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.g.resources
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.Properties.Resources.resources
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.GenerateResource.cache
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.csproj.CopyComplete
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.exe
+C:\Users\varin\Desktop\BookStore_Final_Project_80\BookStore_Final_Project\obj\Debug\BookStore_Final_Project.pdb

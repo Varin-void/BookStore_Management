@@ -1,0 +1,98 @@
+﻿<Window x:Class="BookStore_Final_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookStore_Final_Project"
+        mc:Ignorable="d"
+        Title="BookStore" Height="600" Width="800"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent" >
+
+    <Grid>
+        <Border Background="{StaticResource cs_Background}"
+                CornerRadius="20"
+                BorderThickness="3"
+                BorderBrush="{StaticResource cs_BorderBrush}"/>
+
+        <Border Background="{StaticResource cs_BackgroundLayer}"
+                CornerRadius="20"
+                Margin="200,60,200,60"/>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Right"
+                        Grid.Column="2">
+
+                <Button x:Name="BtnMinimize"
+                        Margin="0 5 5 0"
+                        Style="{StaticResource bt_MinimizeWindow}"
+                        Click="BtnMinimize_Click"/>
+
+                <Button x:Name="BtnMaximize"
+                        Margin="0 5 5 0"
+                        Style="{StaticResource bt_MaximizeWindow}"
+                        Click="BtnMaximize_Click"/>
+
+                <Button x:Name="BtnClose"
+                        Margin="0 5 15 0"
+                        Style="{StaticResource bt_CloseWindow}"
+                        Click="BtnClose_Click"/>
+
+            </StackPanel>
+            <Label Content="Book Store Application"
+                       FontFamily="Roboto"
+                       FontSize="15"
+                       Padding="0"
+                       Margin="15,19,0,0"
+                       HorizontalAlignment="Left" VerticalAlignment="Top"
+                       Foreground="{StaticResource cs_Clouds}"/>
+
+            <StackPanel Grid.Row="1"
+                        Grid.Column="1"
+                        Margin="0 -120 0 0"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center">
+
+
+                <Label Content="Login Form"
+                       FontFamily="Roboto"
+                       FontSize="30"
+                       Padding="0"
+                       Margin="0 10 0 5"
+                       HorizontalAlignment="Center"
+                       Foreground="{StaticResource cs_Clouds}"/>
+
+                <TextBox Name="tb_User" Style="{StaticResource tb_TextHold}"
+                         Width="190"
+                         Margin="0 10 0 0"
+                         Tag="Username"/>
+
+                <PasswordBox Name="tb_Password" Style="{StaticResource pb_TextHold}"
+                             PasswordChar="*"
+                             Width="190"
+                             Margin="0 10 0 0"
+                             Tag="Password"
+                             PasswordChanged="tb_Password_PasswordChanged"/>
+
+                <Button Name="bt_Submit" Content="Submit"
+                        Margin="10"
+                        Style="{StaticResource bt_RoundedStyle}" Click="bt_Submit_Click"/>
+
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Window>
